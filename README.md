@@ -169,7 +169,3 @@ npm start
 - **Dashboard**: Summary statistics for quick overview
 - **Order Management**: Track and manage orders
 - **Soft Delete**: Products are soft-deleted (isDeleted flag) for data integrity
-
-## License
-
-ISC
